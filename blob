@@ -1,34 +1,6 @@
-#EXTM3U url=""
-#EXTINF:-1,Wow El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTM3U
 #EXTINF:-1,DW en Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
-#EXTINF:-1,Antena 3
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38501
-#EXTINF:-1,Energy
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15002
-#EXTINF:-1,Cuatro
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38497
-#EXTINF:-1,Divinity
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15003
-#EXTINF:-1,Paramount
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/14956
-#EXTINF:-1,Be Mad
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15014
-#EXTINF:-1,La 1
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38498
-#EXTINF:-1,La 2
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15038
-#EXTINF:-1,Telecinco
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38495
-#EXTINF:-1,laSexta
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38499
-#EXTINF:-1,TVE Internacional
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15031
-#EXTINF:-1,FDF
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15030
-#EXTINF:-1,Nova
-http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38487
 #EXTINF:-1,AXN
 http://45.235.37.194:8000/play/a03a
 #EXTINF:-1,Universal
@@ -75,6 +47,34 @@ http://45.235.37.194:8000/play/a018
 http://45.235.37.194:8000/play/a063
 #EXTINF:-1,Cinecanal
 http://45.235.37.194:8000/play/a00c
+#EXTINF:-1,Wow El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38501
+#EXTINF:-1,Energy
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15002
+#EXTINF:-1,Cuatro
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38497
+#EXTINF:-1,Divinity
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15003
+#EXTINF:-1,Paramount
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/14956
+#EXTINF:-1,Be Mad
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15014
+#EXTINF:-1,La 1
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38498
+#EXTINF:-1,La 2
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15038
+#EXTINF:-1,Telecinco
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38495
+#EXTINF:-1,laSexta
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38499
+#EXTINF:-1,TVE Internacional
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15031
+#EXTINF:-1,FDF
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/15030
+#EXTINF:-1,Nova
+http://www.sansat.net:25461/mrrjpeta/djhdWkh8vv/38487
 #EXTINF:-1,Canal 13
 http://45.235.37.194:8000/play/a010
 #EXTINF:-1,Animal Planet
